@@ -1,5 +1,6 @@
 ## IFAI-ICME2025
-Official code repository of the paper "Confidence Breeds Success: Improving Fake News Video Detection via LVLM-Assisted Inference".
+Official code repository of the paper:
+Yuchen Zhang, Mingxin Li, Chao Gao, Xianghua Li, Confidence breeds success: Improving fake news video detection via LVLM-assisted inference, International Conference on Multimedia and Expo (ICME25), 2025, Accept.
 
 ## Dataset
 [FakeSV](https://github.com/ICTMCG/FakeSV)  
